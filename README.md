@@ -11,11 +11,9 @@ SSLCertManager4J Features:
 2. Import Certificate (.cer) into a Keystore
 3. Export Certificate from Keystore and store in User folder
 4. Remove a Certificate from Truststore / Keystore
-5. Create a KeyStore
-6. Create a Trustore
 ----------------------------------------------------------------------------------------------------------
 **How to run this Jar:
 java -jar SSLCertManager4Java.jar
 ----------------------------------------------------------------------------------------------------------
-**Next Release: couple of code improvments & new features like Certificate Signing and validation controls
+**Next Release: couple of code improvments & new features like Certificate Signing, Creating a KeyStore, Creating a Trustore and validation controls.
 ----------------------------------------------------------------------------------------------------------
