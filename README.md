@@ -1,5 +1,5 @@
-# SSLCertManager4J-release
-This public repo is a place where current version of SSLCertManager4J will be uploaded.
+# SSLCertManager4Java-release
+This public repo is a place where current version of SSLCertManager4Java will be uploaded.
 This is a Java Swing based application which can help its user to manage SSL certificates stored in JKS format KeyStore or Trustore. Its a single jar that user need to run in their machine and then help the application with JAVA HOME and then on to the 
 KeyStore or Trustore user wants to work with.
 
@@ -15,7 +15,7 @@ SSLCertManager4J Features:
 6. Create a Trustore
 ----------------------------------------------------------------------------------------------------------
 **How to run this Jar:
-java -jar SSLCertManager4j.jar
+java -jar SSLCertManager4Java.jar
 ----------------------------------------------------------------------------------------------------------
 **Next Release: couple of code improvments & new features like Certificate Signing and validation controls
 ----------------------------------------------------------------------------------------------------------
