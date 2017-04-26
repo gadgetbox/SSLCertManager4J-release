@@ -4,7 +4,7 @@ This is a Java Swing based application which can help its user to manage SSL cer
 KeyStore or Trustore user wants to work with.
 
 For more Information and how to guide: please see this file.
-*SSLCertManager4J_UserGuide_b1_release2017.docx
+1. SSLCertManager4J_UserGuide_b1_release2017.docx
 
 **its a currently a work-in-progress, please let me know your suggestions or feedback gaurav.sjsu@gmail.com
 ----------------------------------------------------------------------------------------------------------
